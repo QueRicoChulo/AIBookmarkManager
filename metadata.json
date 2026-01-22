@@ -1,0 +1,5 @@
+{
+  "name": "Smart Bookmark Organizer",
+  "description": "Organize your messy bookmarks using AI. Upload your browser's bookmark export file, and let Gemini categorize them and clean up the titles.",
+  "requestFramePermissions": []
+}
